@@ -1,0 +1,28 @@
+{
+  "name": "svg-labs",
+  "version": "1.0.0",
+  "description": "SVG Playground",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curatecode/svg-labs.git"
+  },
+  "author": "CurateCo.de",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curatecode/svg-labs/issues"
+  },
+  "homepage": "https://github.com/curatecode/svg-labs#readme"
+}
